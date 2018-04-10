@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,IAAI,CACF,UAAU,CAAE,OAAO,CAGnB,yBAAU,CACR,UAAU,CAAE,MAAM,CAIlB,8BAAQ,CACN,KAAK,CAAE,cAAc,CACrB,OAAO,CAAE,mBAAmB,CAC5B,kCAAI,CACF,MAAM,CAAE,IAAI,CAEd,uCAAU,CACR,UAAU,CAAE,MAAM",
+"sources": ["../scss/logo-slider.scss"],
+"names": [],
+"file": "logo-slider.css"
+}

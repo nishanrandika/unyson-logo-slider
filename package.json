@@ -1,0 +1,24 @@
+{
+  "name": "logo-slider",
+  "version": "1.0.0",
+  "description": "A slider with company logos and a small text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "scss --watch static/scss:static/css  --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharindu93/unyson-shortcode-logo-slider.git"
+  },
+  "author": "Jeyarathnem Jeyachanthuru <jeyachanthuruj@gmail.com> (https://twitter.com/jeyachanthuruj)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tharindu93/unyson-shortcode-logo-slider/issues"
+  },
+  "homepage": "https://github.com/tharindu93/unyson-shortcode-logo-slider#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "slick-carousel": "^1.8.1"
+  }
+}

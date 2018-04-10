@@ -1,0 +1,24 @@
+/*
+*
+*/
+body{
+  background: #f2f2f2; //This is for testing purpose
+}
+.usc-logo-slider{
+  &__heading{
+    text-align: center;
+  }
+
+  &__inner{
+    &__slide{
+      width: 98% !important;
+      padding: 25px 25px 10px 25px;
+      img {
+        margin: auto;
+      }
+      &__caption{
+        text-align: center;
+      }
+    }
+  }
+}

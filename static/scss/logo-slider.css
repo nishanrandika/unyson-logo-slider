@@ -1,0 +1,17 @@
+/*
+*
+*/
+body {
+  background: #f2f2f2; }
+
+.usc-logo-slider__heading {
+  text-align: center; }
+.usc-logo-slider__inner__slide {
+  width: 98% !important;
+  padding: 25px 25px 10px 25px; }
+  .usc-logo-slider__inner__slide img {
+    margin: auto; }
+  .usc-logo-slider__inner__slide__caption {
+    text-align: center; }
+
+/*# sourceMappingURL=logo-slider.css.map */
